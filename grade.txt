@@ -1,0 +1,9 @@
+************************************************************
+Group ['U2240731L']['RTAN093']
+
+OVERALL:
+input integrity test 1.0/1.0, check_move test 1.0/1.0, apply_move test 1.5/1.5, check_victory test 2.2/2.2, computer_move test 2.3/2.3, large/small board test 1.0/1.0, menu/display test 1.0/1.0 
+==> final grade is 10.00/10
+
+
+************************************************************
